@@ -1,2 +1,3 @@
-# AccuTemperature
-This website tells you about the current temperature of a particular location
+# Memoranda
+
+This website helps to make to-do list for future purposes
